@@ -1,4 +1,4 @@
-# cnn-meet-gmm-lid
+# XXXXXXXXXXXXX
 
 This system will not be public until paper is published
 
